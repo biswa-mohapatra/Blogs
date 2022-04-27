@@ -24,4 +24,4 @@ Here in this notebook, we have built an interactive dashboard using python modul
 So, wihout wasting much time, lets get started with some analysis, on the collected data.
 
 ## The Dashboard
-![alt text](https://github.com/biswa-mohapatra/Blogs/blob/main/python-dashboard-panel/bike.png?raw=true)
+![alt text](https://github.com/biswa-mohapatra/Blogs/blob/main/python-dashboard-panel/Dashboard.png?raw=true)
