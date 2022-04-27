@@ -22,3 +22,6 @@ We have collected the approximate data manually using google search and news upd
 Here in this notebook, we have built an interactive dashboard using python module such panel and hvplot. For any Business Analytics, the insights of the data is highly essential. A data in the form of sheets can not only be difficult to analyse also boring to look at. A pictorial representation of the data can be very insightful and very much explainable too.
 
 So, wihout wasting much time, lets get started with some analysis, on the collected data.
+
+## The Dashboard
+![alt text](https://github.com/biswa-mohapatra/Blogs/blob/main/python-dashboard-panel/bike.png?raw=true)
