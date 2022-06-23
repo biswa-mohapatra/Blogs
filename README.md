@@ -11,4 +11,4 @@ Hope you all like my work.
   [https://medium.com/@Biswajit-Mohapatra/interactive-dasboad-using-python-cd929b518975]
   
 # Assumptions for Linear Regression Model
-  []
+  [https://medium.com/@Biswajit-Mohapatra/linear-regression-assumptions-you-need-to-consider-before-building-a-model-c545b4e88b28]
